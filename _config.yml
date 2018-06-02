@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        keep it simple
+tagline:      ""
 baseurl:      ""
 paginate:     1
-locale:       "en"
+locale:       "jp"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       kbysta1
+  url:        https://github.com/kbysta1
 
 # Gems
 gems:
@@ -16,3 +16,10 @@ gems:
 
 #Others
 markdown: kramdown
+
+collections:
+  sixpad:
+    output: true
+
+title-sixpad: シックスパッド(SIXPAD)でビール腹を解消できるか
+tagline-sixpad: "運動が苦手でジムも続かなかったITエンジニアが、シックスパッドで楽して痩せられるのか検証しています"
