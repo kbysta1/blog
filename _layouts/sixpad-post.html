@@ -2,6 +2,24 @@
 layout: sixpad
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date |  |  date: "%Y年%m月%d日" }}</p>
+<p class="meta">{{ page.date | date: "%Y年%m月%d日" }}</p>
 
 {{ content }}
+
+{% for links in site.sixpad  %}
+  {% if links.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevtitle = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = site.sixpad[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% assign nexttitle = next.title %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+{% if nexturl %}<a href="{{nexturl}}" class="next">→{{nexttitle}}</a>{% endif %}<br>
+{% if prevurl %}<a href="{{prevurl}}" class="prev">←{{prevtitle}}</a>{% endif %}<br>
