@@ -5,14 +5,15 @@ baseurl:      ""
 paginate:     1
 locale:       "jp"
 
+plugins:
+  - jekyll-paginate
+
 # About/contact
 author:
   name:       kbysta1
   url:        https://github.com/kbysta1
 
 # Gems
-gems:
-  - jekyll-paginate
 
 #Others
 markdown: kramdown
