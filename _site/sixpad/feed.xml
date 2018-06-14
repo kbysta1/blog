@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000/sixpad/</link>
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)を購入した理由</title>
+        <description></description>
+        <pubDate>Tue, 22 May 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-05-22-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-05-22-post.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)開封</title>
+        <description></description>
+        <pubDate>Tue, 22 May 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-05-22-post2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-05-22-post2.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)1日目</title>
+        <description></description>
+        <pubDate>Wed, 23 May 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-05-23-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-05-23-post.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)3日目</title>
+        <description></description>
+        <pubDate>Fri, 25 May 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-05-25-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-05-25-post.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)7日目</title>
+        <description></description>
+        <pubDate>Tue, 29 May 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-05-29-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-05-29-post.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)11日目</title>
+        <description></description>
+        <pubDate>Sat, 02 Jun 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-06-02-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-06-02-post.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)15日目</title>
+        <description></description>
+        <pubDate>Wed, 06 Jun 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-06-06-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-06-06-post.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>シックスパッド(SIXPAD)19日目</title>
+        <description></description>
+        <pubDate>Sun, 10 Jun 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/sixpad/2018-06-10-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sixpad/2018-06-10-post.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
